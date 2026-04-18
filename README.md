@@ -37,17 +37,14 @@ Solutions are categorized by the core technical challenge they address:
 | 180 | Consecutive Numbers | 🟡 Medium | Advanced Joins | [View Script](./05_Advanced_Select_Joins/180.sql) |
 | 185 | Department Top 3 Salaries | 🔴 Hard | Window Func | [View Script](./05_Advanced_Select_Joins/185.sql) |
 
-*(Note: Replace the links above with your actual file paths as you upload them!)*
+
 
 ---
 
 ## 🛠️ How to Use
 1. **Explore:** Browse by category folder to see specific logic implementations.
 2. **Review:** Each `.sql` file contains the problem link and a brief explanation of the optimization used.
-3. **Run:** All scripts are optimized for [Mention your SQL version here].
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** [Insert your profile link]
-- **LeetCode Profile:** [Insert your LeetCode profile link]
+
