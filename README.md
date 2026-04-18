@@ -28,7 +28,21 @@ Solutions are categorized by the core technical challenge they address:
 
 ---
 
+## 📊 Solution Progress Tracker
+
+| # | Problem Name | Difficulty | Category | Solution |
+| :--- | :--- | :--- | :--- | :--- |
+| 1757 | Recyclable and Low Fat Products | 🟢 Easy | Select | [View Script](./01_Select/1757_recyclable_low_fat.sql) |
+| 584 | Find Customer Referee | 🟢 Easy | Select | [View Script](./01_Select/584_find_customer_referee.sql) |
+| 595 | Big Countries | 🟢 Easy | Select | [View Script](./01_Select/595_big_countries.sql) |
+| 1148 | Article Views I | 🟢 Easy | Select | [View Script](./01_Select/1148_article_views_i.sql) |
+| 1683 | Invalid Tweets | 🟢 Easy | Select | [View Script](./01_Select/1683_invalid_tweets.sql) |
+
+---
+
 ## 🛠️ How to Use
 1. **Explore:** Browse by category folder to see specific logic implementations.
 2. **Review:** Each `.sql` file contains the problem link and a brief explanation of the optimization used.
+
+---
 
