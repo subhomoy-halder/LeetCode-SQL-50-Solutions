@@ -28,23 +28,7 @@ Solutions are categorized by the core technical challenge they address:
 
 ---
 
-## 📊 Solution Progress Tracker
-
-| # | Problem Name | Difficulty | Category | Solution |
-| :--- | :--- | :--- | :--- | :--- |
-| 1757 | Recyclable and Low Fat Products | 🟢 Easy | Select | [View Script](./01_Select/1757.sql) |
-| 1378 | Replace Employee ID | 🟢 Easy | Basic Joins | [View Script](./02_Basic_Joins/1378.sql) |
-| 180 | Consecutive Numbers | 🟡 Medium | Advanced Joins | [View Script](./05_Advanced_Select_Joins/180.sql) |
-| 185 | Department Top 3 Salaries | 🔴 Hard | Window Func | [View Script](./05_Advanced_Select_Joins/185.sql) |
-
-
-
----
-
 ## 🛠️ How to Use
 1. **Explore:** Browse by category folder to see specific logic implementations.
 2. **Review:** Each `.sql` file contains the problem link and a brief explanation of the optimization used.
-
----
-
 
