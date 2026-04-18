@@ -32,11 +32,11 @@ Solutions are categorized by the core technical challenge they address:
 
 | # | Problem Name | Difficulty | Category | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| 1757 | Recyclable and Low Fat Products | 🟢 Easy | Select | [View Script](./01_Select/1757_recyclable_low_fat.sql) |
-| 584 | Find Customer Referee | 🟢 Easy | Select | [View Script](./01_Select/584_find_customer_referee.sql) |
-| 595 | Big Countries | 🟢 Easy | Select | [View Script](./01_Select/595_big_countries.sql) |
-| 1148 | Article Views I | 🟢 Easy | Select | [View Script](./01_Select/1148_article_views_i.sql) |
-| 1683 | Invalid Tweets | 🟢 Easy | Select | [View Script](./01_Select/1683_invalid_tweets.sql) |
+| 1757 | Recyclable and Low Fat Products | 🟢 Easy | Select | [View Script](./01_Select/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql) |
+| 584 | Find Customer Referee | 🟢 Easy | Select | [View Script](./01_Select/584.%20Find%20Customer%20Referee.sql) |
+| 595 | Big Countries | 🟢 Easy | Select | [View Script](./01_Select/595.%20Big%20Countries.sql) |
+| 1148 | Article Views I | 🟢 Easy | Select | [View Script](./01_Select/1148.%20Article%20Views%20I.sql) |
+| 1683 | Invalid Tweets | 🟢 Easy | Select | [View Script](./01_Select/1683.%20Invalid%20Tweets.sql) |
 
 ---
 
