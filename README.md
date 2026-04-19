@@ -55,19 +55,19 @@ Solutions are categorized by the core technical challenge they address:
 | 1174 | Immediate Food Delivery II | 🟡 Medium | Aggregate Functions | [View Script](./03_Aggregate_Functions/1174.%20Immediate%20Food%20Delivery%20II.sql) |
 | 550 | Game Play Analysis IV | 🟡 Medium | Aggregate Functions | [View Script](./03_Aggregate_Functions/550.%20Game%20Play%20Analysis%20IV.sql) |
 | 2356 | Number of Unique Subjects Taught by Each Teacher | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql) |
-| 1789 | Primary Department for Each Employee | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1789.%20Primary%20Department%20for%20Each%20Employee.sql) |
 | 1141 | User Activity for the Past 30 Days I | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql) |
 | 1070 | Product Sales Analysis III | 🟡 Medium | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1070.%20Product%20Sales%20Analysis%20III.sql) |
 | 596 | Classes With at Least 5 Students | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/596.%20Classes%20With%20at%20Least%205%20Students.sql) |
 | 1729 | Find Followers Count | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1729.%20Find%20Followers%20Count.sql) |
 | 619 | Biggest Single Number | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/619.%20Biggest%20Single%20Number.sql) |
 | 1045 | Customers Who Bought All Products | 🟡 Medium | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1045.%20Customers%20Who%20Bought%20All%20Products.sql) |
-| 1731 | The Number of Employees Which Report to Each Employee | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql) |
-| 610 | Triangle Judgement | 🟢 Easy | Advanced Select and Joins | [View Script](./05_Advanced_Select_and_Joins/610.%20Triangle%20Judgement.sql) |
-| 180 | Consecutive Numbers | 🟡 Medium | Advanced Select and Joins | [View Script](./05_Advanced_Select_and_Joins/180.%20Consecutive%20Numbers.sql) |
-| 1164 | Product Price at a Given Date | 🟡 Medium | Advanced Select and Joins | [View Script](./05_Advanced_Select_and_Joins/1164.%20Product%20Price%20at%20a%20Given%20Date.sql) |
-| 1204 | Last Person to Fit in the Bus | 🟡 Medium | Advanced Select and Joins | [View Script](./05_Advanced_Select_and_Joins/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql) |
-| 1907 | Count Salary Categories | 🟡 Medium | Advanced Select and Joins | [View Script](./05_Advanced_Select_and_Joins/1907.%20Count%20Salary%20Categories.sql) |
+| 610 | Triangle Judgement | 🟢 Easy | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/610.%20Triangle%20Judgement.sql) |
+| 180 | Consecutive Numbers | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/180.%20Consecutive%20Numbers.sql) |
+| 1164 | Product Price at a Given Date | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1164.%20Product%20Price%20at%20a%20Given%20Date.sql) |
+| 1204 | Last Person to Fit in the Bus | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql) |
+| 1907 | Count Salary Categories | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1907.%20Count%20Salary%20Categories.sql) |
+| 1731 | The Number of Employees Which Report to Each Employee | 🟢 Easy | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql) |
+| 1789 | Primary Department for Each Employee | 🟢 Easy | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1789.%20Primary%20Department%20for%20Each%20Employee.sql) |
 
 
 ---
