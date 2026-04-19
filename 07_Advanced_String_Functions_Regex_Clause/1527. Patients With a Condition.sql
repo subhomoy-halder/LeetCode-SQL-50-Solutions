@@ -1,7 +1,7 @@
 /* PROBLEM: 1527. Patients With a Condition
 DIFFICULTY: Easy
 TOPIC: Advanced String Functions, Regex, And Clause
-
+ 
 LOGIC:
 The objective is to identify patients who have Type I Diabetes. The problem 
 specifies that Type I Diabetes codes always start with the 'DIAB1' prefix. 
