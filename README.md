@@ -65,6 +65,9 @@ Solutions are categorized by the core technical challenge they address:
 | 1731 | The Number of Employees Which Report to Each Employee | 🟢 Easy | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql) |
 | 1789 | Primary Department for Each Employee | 🟢 Easy | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1789.%20Primary%20Department%20for%20Each%20Employee.sql) |
 | 1907 | Count Salary Categories | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1907.%20Count%20Salary%20Categories.sql) |
+| 180 | Consecutive Numbers | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/180.%20Consecutive%20Numbers.sql) |
+| 1164 | Product Price at a Given Date | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1164.%20Product%20Price%20at%20a%20Given%20Date.sql) |
+| 1204 | Last Person to Fit in the Bus | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql) |
 | 1321 | Restaurant Growth | 🟡 Medium | Subqueries | [View Script](./06_Subqueries/1321.%20Restaurant%20Growth.sql) |
 | 1341 | Movie Rating | 🟡 Medium | Subqueries | [View Script](./06_Subqueries/1341.%20Movie%20Rating.sql) |
 | 185 | Department Top Three Salaries | 🔴 Hard | Subqueries | [View Script](./06_Subqueries/185.%20Department%20Top%20Three%20Salaries.sql) |
@@ -79,10 +82,6 @@ Solutions are categorized by the core technical challenge they address:
 | 1667 | Fix Names in a Table | 🟢 Easy | Advanced String Functions / Regex / Clause | [View Script](./07_Advanced_String_Functions_Regex_Clause/1667.%20Fix%20Names%20in%20a%20Table.sql) |
 | 176 | Second Highest Salary | 🟡 Medium | Advanced String Functions / Regex / Clause | [View Script](./07_Advanced_String_Functions_Regex_Clause/176.%20Second%20Highest%20Salary.sql) |
 | 196 | Delete Duplicate Emails | 🟢 Easy | Advanced String Functions / Regex / Clause | [View Script](./07_Advanced_String_Functions_Regex_Clause/196.%20Delete%20Duplicate%20Emails.sql) |
-| 180 | Consecutive Numbers | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/180.%20Consecutive%20Numbers.sql) |
-| 1164 | Product Price at a Given Date | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1164.%20Product%20Price%20at%20a%20Given%20Date.sql) |
-| 1204 | Last Person to Fit in the Bus | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql) |
-
 
 ---
 
