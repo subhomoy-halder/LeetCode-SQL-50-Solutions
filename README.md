@@ -46,6 +46,14 @@ Solutions are categorized by the core technical challenge they address:
 | 1280 | Students and Examinations | 🟢 Easy | Basic Joins | [View Script](./02_Basic_Joins/1280.%20Students%20and%20Examinations.sql) |
 | 570 | Managers with at Least 5 Direct Reports | 🟡 Medium | Basic Joins | [View Script](./02_Basic_Joins/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql) |
 | 1934 | Confirmation Rate | 🟡 Medium | Basic Joins | [View Script](./02_Basic_Joins/1934.%20Confirmation%20Rate.sql) |
+| 620 | Not Boring Movies | 🟢 Easy | Aggregate Functions | [View Script](./03_Aggregate_Functions/620.%20Not%20Boring%20Movies.sql) |
+| 1251 | Average Selling Price | 🟢 Easy | Aggregate Functions | [View Script](./03_Aggregate_Functions/1251.%20Average%20Selling%20Price.sql) |
+| 1075 | Project Employees I | 🟢 Easy | Aggregate Functions | [View Script](./03_Aggregate_Functions/1075.%20Project%20Employees%20I.sql) |
+| 1633 | Percentage of Users Attended a Contest | 🟢 Easy | Aggregate Functions | [View Script](./03_Aggregate_Functions/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.sql) |
+| 1211 | Queries Quality and Percentage | 🟢 Easy | Aggregate Functions | [View Script](./03_Aggregate_Functions/1211.%20Queries%20Quality%20and%20Percentage.sql) |
+| 1193 | Monthly Transactions I | 🟡 Medium | Aggregate Functions | [View Script](./03_Aggregate_Functions/1193.%20Monthly%20Transactions%20I.sql) |
+| 1174 | Immediate Food Delivery II | 🟡 Medium | Aggregate Functions | [View Script](./03_Aggregate_Functions/1174.%20Immediate%20Food%20Delivery%20II.sql) |
+| 550 | Game Play Analysis IV | 🟡 Medium | Aggregate Functions | [View Script](./03_Aggregate_Functions/550.%20Game%20Play%20Analysis%20IV.sql) |
 
 ---
 
