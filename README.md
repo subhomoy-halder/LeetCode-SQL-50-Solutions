@@ -37,11 +37,6 @@ Solutions are categorized by the core technical challenge they address:
 | 595 | Big Countries | 🟢 Easy | Select | [View Script](./01_Select/595.%20Big%20Countries.sql) |
 | 1148 | Article Views I | 🟢 Easy | Select | [View Script](./01_Select/1148.%20Article%20Views%20I.sql) |
 | 1683 | Invalid Tweets | 🟢 Easy | Select | [View Script](./01_Select/1683.%20Invalid%20Tweets.sql) |
-| 1757 | Recyclable and Low Fat Products | 🟢 Easy | Select | [View Script](./01_Select/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql) |
-| 584 | Find Customer Referee | 🟢 Easy | Select | [View Script](./01_Select/584.%20Find%20Customer%20Referee.sql) |
-| 595 | Big Countries | 🟢 Easy | Select | [View Script](./01_Select/595.%20Big%20Countries.sql) |
-| 1148 | Article Views I | 🟢 Easy | Select | [View Script](./01_Select/1148.%20Article%20Views%20I.sql) |
-| 1683 | Invalid Tweets | 🟢 Easy | Select | [View Script](./01_Select/1683.%20Invalid%20Tweets.sql) |
 | 1378 | Replace Employee ID With The Unique Identifier | 🟢 Easy | Basic Joins | [View Script](./02_Basic_Joins/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql) |
 | 1068 | Product Sales Analysis I | 🟢 Easy | Basic Joins | [View Script](./02_Basic_Joins/1068.%20Product%20Sales%20Analysis%20I.sql) |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | 🟢 Easy | Basic Joins | [View Script](./02_Basic_Joins/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql) |
