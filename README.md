@@ -62,12 +62,26 @@ Solutions are categorized by the core technical challenge they address:
 | 619 | Biggest Single Number | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/619.%20Biggest%20Single%20Number.sql) |
 | 1045 | Customers Who Bought All Products | 🟡 Medium | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1045.%20Customers%20Who%20Bought%20All%20Products.sql) |
 | 610 | Triangle Judgement | 🟢 Easy | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/610.%20Triangle%20Judgement.sql) |
+| 1731 | The Number of Employees Which Report to Each Employee | 🟢 Easy | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql) |
+| 1789 | Primary Department for Each Employee | 🟢 Easy | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1789.%20Primary%20Department%20for%20Each%20Employee.sql) |
+| 1907 | Count Salary Categories | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1907.%20Count%20Salary%20Categories.sql) |
+| 1321 | Restaurant Growth | 🟡 Medium | Subqueries | [View Script](./06_Subqueries/1321.%20Restaurant%20Growth.sql) |
+| 1341 | Movie Rating | 🟡 Medium | Subqueries | [View Script](./06_Subqueries/1341.%20Movie%20Rating.sql) |
+| 185 | Department Top Three Salaries | 🔴 Hard | Subqueries | [View Script](./06_Subqueries/185.%20Department%20Top%20Three%20Salaries.sql) |
+| 1978 | Employees Whose Manager Left the Company | 🟢 Easy | Subqueries | [View Script](./06_Subqueries/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.sql) |
+| 585 | Investments in 2016 | 🟡 Medium | Subqueries | [View Script](./06_Subqueries/585.%20Investments%20in%202016.sql) |
+| 602 | Friend Requests II: Who Has the Most Friends | 🟡 Medium | Subqueries | [View Script](./06_Subqueries/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.sql) |
+| 626 | Exchange Seats | 🟡 Medium | Subqueries | [View Script](./06_Subqueries/626.%20Exchange%20Seats.sql) |
+| 1327 | List the Products Ordered in a Period | 🟢 Easy | Advanced String Functions / Regex / Clause | [View Script](./07_Advanced_String_Functions_Regex_Clause/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.sql) |
+| 1484 | Group Sold Products By The Date | 🟢 Easy | Advanced String Functions / Regex / Clause | [View Script](./07_Advanced_String_Functions_Regex_Clause/1484.%20Group%20Sold%20Products%20By%20The%20Date.sql) |
+| 1517 | Find Users With Valid E-Mails | 🟢 Easy | Advanced String Functions / Regex / Clause | [View Script](./07_Advanced_String_Functions_Regex_Clause/1517.%20Find%20Users%20With%20Valid%20E-Mails.sql) |
+| 1527 | Patients With a Condition | 🟢 Easy | Advanced String Functions / Regex / Clause | [View Script](./07_Advanced_String_Functions_Regex_Clause/1527.%20Patients%20With%20a%20Condition.sql) |
+| 1667 | Fix Names in a Table | 🟢 Easy | Advanced String Functions / Regex / Clause | [View Script](./07_Advanced_String_Functions_Regex_Clause/1667.%20Fix%20Names%20in%20a%20Table.sql) |
+| 176 | Second Highest Salary | 🟡 Medium | Advanced String Functions / Regex / Clause | [View Script](./07_Advanced_String_Functions_Regex_Clause/176.%20Second%20Highest%20Salary.sql) |
+| 196 | Delete Duplicate Emails | 🟢 Easy | Advanced String Functions / Regex / Clause | [View Script](./07_Advanced_String_Functions_Regex_Clause/196.%20Delete%20Duplicate%20Emails.sql) |
 | 180 | Consecutive Numbers | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/180.%20Consecutive%20Numbers.sql) |
 | 1164 | Product Price at a Given Date | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1164.%20Product%20Price%20at%20a%20Given%20Date.sql) |
 | 1204 | Last Person to Fit in the Bus | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql) |
-| 1907 | Count Salary Categories | 🟡 Medium | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1907.%20Count%20Salary%20Categories.sql) |
-| 1731 | The Number of Employees Which Report to Each Employee | 🟢 Easy | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql) |
-| 1789 | Primary Department for Each Employee | 🟢 Easy | Advanced Select And Joins | [View Script](./05_Advanced_Select_And_Joins/1789.%20Primary%20Department%20for%20Each%20Employee.sql) |
 
 
 ---
