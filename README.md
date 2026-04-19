@@ -54,14 +54,15 @@ Solutions are categorized by the core technical challenge they address:
 | 1193 | Monthly Transactions I | 🟡 Medium | Aggregate Functions | [View Script](./03_Aggregate_Functions/1193.%20Monthly%20Transactions%20I.sql) |
 | 1174 | Immediate Food Delivery II | 🟡 Medium | Aggregate Functions | [View Script](./03_Aggregate_Functions/1174.%20Immediate%20Food%20Delivery%20II.sql) |
 | 550 | Game Play Analysis IV | 🟡 Medium | Aggregate Functions | [View Script](./03_Aggregate_Functions/550.%20Game%20Play%20Analysis%20IV.sql) |
-| 2356 | Number of Unique Subjects Taught by Each Teacher | 🟢 Easy | Sorting and Grouping | [View Script](./04_Sorting_and_Grouping/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql) |
-| 1789 | Primary Department for Each Employee | 🟢 Easy | Sorting and Grouping | [View Script](./04_Sorting_and_Grouping/1789.%20Primary%20Department%20for%20Each%20Employee.sql) |
-| 1141 | User Activity for the Past 30 Days I | 🟢 Easy | Sorting and Grouping | [View Script](./04_Sorting_and_Grouping/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql) |
-| 1070 | Product Sales Analysis III | 🟡 Medium | Sorting and Grouping | [View Script](./04_Sorting_and_Grouping/1070.%20Product%20Sales%20Analysis%20III.sql) |
-| 596 | Classes With at Least 5 Students | 🟢 Easy | Sorting and Grouping | [View Script](./04_Sorting_and_Grouping/596.%20Classes%20With%20at%20Least%205%20Students.sql) |
-| 1729 | Find Followers Count | 🟢 Easy | Sorting and Grouping | [View Script](./04_Sorting_and_Grouping/1729.%20Find%20Followers%20Count.sql) |
-| 619 | Biggest Single Number | 🟢 Easy | Sorting and Grouping | [View Script](./04_Sorting_and_Grouping/619.%20Biggest%20Single%20Number.sql) |
-| 1045 | Customers Who Bought All Products | 🟡 Medium | Sorting and Grouping | [View Script](./04_Sorting_and_Grouping/1045.%20Customers%20Who%20Bought%20All%20Products.sql) |
+| 2356 | Number of Unique Subjects Taught by Each Teacher | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql) |
+| 1789 | Primary Department for Each Employee | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1789.%20Primary%20Department%20for%20Each%20Employee.sql) |
+| 1141 | User Activity for the Past 30 Days I | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql) |
+| 1070 | Product Sales Analysis III | 🟡 Medium | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1070.%20Product%20Sales%20Analysis%20III.sql) |
+| 596 | Classes With at Least 5 Students | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/596.%20Classes%20With%20at%20Least%205%20Students.sql) |
+| 1729 | Find Followers Count | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1729.%20Find%20Followers%20Count.sql) |
+| 619 | Biggest Single Number | 🟢 Easy | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/619.%20Biggest%20Single%20Number.sql) |
+| 1045 | Customers Who Bought All Products | 🟡 Medium | Sorting And Grouping | [View Script](./04_Sorting_And_Grouping/1045.%20Customers%20Who%20Bought%20All%20Products.sql) |
+
 
 ---
 
