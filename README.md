@@ -63,7 +63,6 @@ Solutions are categorized by the core technical challenge they address:
 | 619 | Biggest Single Number | 🟢 Easy | Sorting and Grouping | [View Script](./04_Sorting_and_Grouping/619.%20Biggest%20Single%20Number.sql) |
 | 1045 | Customers Who Bought All Products | 🟡 Medium | Sorting and Grouping | [View Script](./04_Sorting_and_Grouping/1045.%20Customers%20Who%20Bought%20All%20Products.sql) |
 
-
 ---
 
 ## 🛠️ How to Use
