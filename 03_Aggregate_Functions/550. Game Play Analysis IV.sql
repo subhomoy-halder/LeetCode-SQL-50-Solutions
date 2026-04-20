@@ -12,9 +12,7 @@ interval until the subsequent login.
 WITH player_logs AS (
     SELECT
         player_id,
-        -- Calculate days between current login and the next one
         LEAD(event_date) OVER(PARTITION BY player_id ORDER BY event_date) - event_date AS log_days,
-        -- Identify the first login record
         ROW_NUMBER() OVER(PARTITION BY player_id ORDER BY event_date) AS init_log
     FROM activity
 )
