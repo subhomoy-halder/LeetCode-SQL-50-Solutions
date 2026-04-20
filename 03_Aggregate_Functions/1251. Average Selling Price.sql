@@ -7,18 +7,6 @@ The objective is to calculate the weighted average selling price for each produc
 over specific time periods. We join transactional data (UnitsSold) to a 
 dimensional price table (Prices) using a 'BETWEEN' clause to match the 
 transaction date to the correct pricing window.
-
-ARCHITECTURAL NOTE: 
-1. Non-Equi Joins: Using 'BETWEEN' in a join condition is a powerful technique 
-   for handling slowly changing dimensions (SCDs) like prices. It allows us to 
-   lookup values that vary over time without needing a specific ID for every 
-   price change.
-2. Handling Zero Sales: The requirement specifies that products with no sales 
-   should return 0. We achieve this by using a LEFT JOIN followed by 
-   COALESCE(..., 0) on the final result.
-3. Mathematical Safety: We utilize NULLIF within the denominator to prevent 
-   'Division by Zero' errors. Multiplying by 1.0 ensures the division uses 
-   high-precision numeric types before the final ROUND operation.
 */
 
 WITH sales_cte AS (
