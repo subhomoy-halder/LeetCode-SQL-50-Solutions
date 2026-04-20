@@ -9,19 +9,6 @@ orders of all customers. We use a two-step process:
    function partitioned by customer.
 2. Calculate the ratio of immediate orders (where order_date matches preferred 
    delivery date) to total first orders across the entire dataset.
-
-ARCHITECTURAL NOTE: 
-1. Row Integrity via Window Functions: Using 'ROW_NUMBER() OVER(PARTITION BY...)' 
-   is the most robust way to isolate the earliest record in a temporal dataset. 
-   It ensures that even if a customer has multiple orders on their first day, 
-   we only evaluate one "initial" transaction.
-2. Multi-Stage Aggregation: By decoupling the record identification (min_dates) 
-   from the business logic (immediates), we create a highly maintainable 
-   pipeline. This modularity allows for easier debugging of the "first order" 
-   logic independently of the "immediate percentage" logic.
-3. High-Precision Division: We utilize '100.0' and '1.0' to force floating-point 
-   arithmetic, combined with NULLIF to protect against empty result sets. 
-   This ensures the final percentage is accurate to two decimal places.
 */
 
 WITH min_dates AS (
