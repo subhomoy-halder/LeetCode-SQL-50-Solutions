@@ -7,19 +7,6 @@ The objective is to find the number of unique products sold for each date and
 list their names in a comma-separated, alphabetically sorted string. We use 
 a CTE to first isolate distinct date-product pairs, then aggregate the 
 results in the final select.
-
-ARCHITECTURAL NOTE: 
-1. Pre-Aggregation Deduplication: Using a CTE ('distinct_sales') to filter 
-   out duplicate sales records *before* the aggregation step is more 
-   performant and readable than using 'COUNT(DISTINCT...)' and 
-   'STRING_AGG(DISTINCT...)' inside the main query.
-2. PostgreSQL String Aggregation: In PostgreSQL, the 'STRING_AGG' function 
-   accepts an optional 'ORDER BY' clause inside the parentheses. This 
-   efficiently handles the lexicographical sorting requirement while the 
-   data is being concatenated.
-3. Data Normalization: This solution transforms normalized transactional 
-   rows into a denormalized "report-ready" format, a common requirement for 
-   business intelligence exports and daily sales summaries.
 */
 
 WITH distinct_sales AS (
